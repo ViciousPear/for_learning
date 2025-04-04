@@ -1,0 +1,12 @@
+automatics:
+Coordinates: (348, 108, 374, 141)
+Coordinates: (488, 108, 506, 141)
+Coordinates: (66, 108, 85, 141)
+Coordinates: (206, 108, 225, 141)
+text:
+Coordinates: (235, 116, 278, 154)
+Coordinates: (515, 116, 558, 154)
+Coordinates: (94, 116, 137, 154)
+Coordinates: (376, 117, 417, 154)
+Coordinates: (80, 74, 93, 83)
+Coordinates: (500, 74, 514, 83)

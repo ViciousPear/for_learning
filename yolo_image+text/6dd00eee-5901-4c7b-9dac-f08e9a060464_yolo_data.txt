@@ -1,0 +1,5 @@
+automatics:
+Coordinates: (212, 213, 317, 412)
+text:
+Coordinates: (336, 224, 431, 301)
+Coordinates: (244, 0, 640, 397)

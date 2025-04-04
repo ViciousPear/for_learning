@@ -1,0 +1,11 @@
+WH_Counter:
+Coordinates: (55, 272, 88, 302)
+Coordinates: (55, 310, 88, 340)
+text:
+Coordinates: (96, 0, 146, 293)
+Coordinates: (97, 111, 146, 399)
+Coordinates: (32, 449, 146, 476)
+Coordinates: (97, 58, 146, 262)
+Coordinates: (98, 188, 146, 450)
+Coordinates: (94, 353, 146, 476)
+Coordinates: (98, 229, 146, 391)

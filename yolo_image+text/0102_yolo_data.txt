@@ -1,0 +1,12 @@
+automatics:
+Coordinates: (1461, 672, 1508, 758)
+Coordinates: (2218, 672, 2263, 758)
+Coordinates: (1083, 672, 1128, 756)
+Coordinates: (1839, 672, 1885, 757)
+text:
+Coordinates: (1161, 694, 1270, 790)
+Coordinates: (1538, 695, 1647, 789)
+Coordinates: (1915, 694, 2025, 790)
+Coordinates: (2292, 694, 2400, 792)
+WH_Counter:
+Coordinates: (3181, 2180, 3270, 2304)

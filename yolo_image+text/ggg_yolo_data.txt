@@ -1,0 +1,7 @@
+automatics:
+Coordinates: (81, 185, 174, 275)
+Coordinates: (0, 186, 168, 275)
+Coordinates: (85, 187, 261, 275)
+transformators:
+Coordinates: (57, 27, 207, 205)
+Coordinates: (131, 155, 172, 188)

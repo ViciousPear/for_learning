@@ -1,0 +1,3 @@
+automatics:
+Coordinates: (846, 195, 950, 397)
+Coordinates: (154, 204, 260, 406)

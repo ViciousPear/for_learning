@@ -1,0 +1,3 @@
+text:
+Coordinates: (53, 143, 104, 189)
+Coordinates: (565, 12, 625, 208)

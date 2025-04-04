@@ -1,0 +1,15 @@
+automatics:
+Coordinates: (452, 146, 487, 188)
+Coordinates: (634, 145, 657, 187)
+Coordinates: (271, 145, 294, 187)
+Coordinates: (90, 145, 113, 187)
+text:
+Coordinates: (670, 156, 725, 205)
+Coordinates: (489, 156, 543, 205)
+Coordinates: (126, 156, 180, 205)
+Coordinates: (307, 156, 362, 205)
+Coordinates: (651, 101, 668, 112)
+Coordinates: (0, 0, 7, 42)
+Coordinates: (470, 102, 487, 112)
+Coordinates: (288, 101, 305, 112)
+Coordinates: (107, 101, 124, 112)

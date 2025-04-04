@@ -1,0 +1,9 @@
+automatics:
+Coordinates: (202, 276, 262, 388)
+WH_Counter:
+Coordinates: (0, 37, 25, 192)
+Coordinates: (0, 73, 41, 542)
+text:
+Coordinates: (274, 285, 429, 412)
+Coordinates: (0, 628, 28, 659)
+Coordinates: (0, 20, 43, 433)

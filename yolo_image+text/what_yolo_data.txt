@@ -1,0 +1,17 @@
+automatics:
+Coordinates: (818, 142, 840, 184)
+Coordinates: (452, 157, 473, 199)
+Coordinates: (93, 158, 115, 200)
+Coordinates: (273, 158, 296, 200)
+Coordinates: (637, 143, 659, 183)
+text:
+Coordinates: (477, 160, 532, 207)
+Coordinates: (662, 145, 716, 193)
+Coordinates: (118, 160, 171, 208)
+Coordinates: (844, 144, 899, 194)
+Coordinates: (300, 160, 354, 209)
+Coordinates: (111, 128, 127, 137)
+Coordinates: (292, 127, 309, 138)
+Coordinates: (655, 113, 671, 123)
+Coordinates: (0, 4, 9, 36)
+Coordinates: (836, 113, 847, 122)

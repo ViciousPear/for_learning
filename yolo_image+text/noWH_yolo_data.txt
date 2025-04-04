@@ -1,0 +1,17 @@
+transformators:
+Coordinates: (198, 389, 234, 420)
+automatics:
+Coordinates: (543, 172, 585, 252)
+Coordinates: (181, 180, 249, 259)
+text:
+Coordinates: (234, 383, 347, 435)
+Coordinates: (254, 199, 363, 292)
+Coordinates: (614, 191, 720, 286)
+Coordinates: (0, 3, 50, 465)
+Coordinates: (0, 7, 22, 464)
+Coordinates: (0, 6, 78, 466)
+Coordinates: (0, 149, 9, 330)
+Coordinates: (0, 243, 7, 287)
+Coordinates: (0, 179, 10, 309)
+Coordinates: (0, 238, 8, 293)
+Coordinates: (0, 221, 7, 308)
