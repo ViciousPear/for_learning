@@ -1,5 +1,9 @@
-.venv/*
-data/*
+.venv/
+data/
+data/train/
+data/val/
+tests/
 *.png
 *.jpg
 *.jpeg
+*.txt
