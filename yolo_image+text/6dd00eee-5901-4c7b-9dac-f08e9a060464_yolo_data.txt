@@ -1,5 +1,3 @@
-automatics:
-Coordinates: (212, 213, 317, 412)
-text:
-Coordinates: (336, 224, 431, 301)
-Coordinates: (244, 0, 640, 397)
+automatics: 1 объектов
+  Объект 1: x1=211, y1=209, x2=318, y2=411
+

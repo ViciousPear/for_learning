@@ -1,7 +1,4 @@
-automatics:
-Coordinates: (81, 185, 174, 275)
-Coordinates: (0, 186, 168, 275)
-Coordinates: (85, 187, 261, 275)
-transformators:
-Coordinates: (57, 27, 207, 205)
-Coordinates: (131, 155, 172, 188)
+bracing: 2 объектов
+  Объект 1: x1=68, y1=20, x2=190, y2=79
+  Объект 2: x1=67, y1=20, x2=192, y2=107
+

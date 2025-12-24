@@ -1,22 +1,12 @@
-automatics:
-Coordinates: (284, 127, 311, 171)
-Coordinates: (88, 127, 116, 172)
-text:
-Coordinates: (36, 137, 87, 190)
-Coordinates: (231, 137, 283, 191)
-Coordinates: (231, 536, 283, 569)
-Coordinates: (36, 534, 87, 569)
-Coordinates: (44, 335, 133, 429)
-Coordinates: (33, 0, 115, 87)
-Coordinates: (307, 335, 323, 350)
-Coordinates: (108, 335, 127, 353)
-Coordinates: (0, 306, 91, 595)
-Coordinates: (53, 385, 105, 420)
-Coordinates: (6, 268, 143, 637)
-Coordinates: (0, 280, 104, 646)
-Coordinates: (0, 437, 90, 581)
-Coordinates: (310, 637, 385, 692)
-Coordinates: (114, 625, 188, 693)
-Coordinates: (0, 0, 112, 97)
-WH_Counter:
-Coordinates: (373, 0, 558, 440)
+automatics: 2 объектов
+  Объект 1: x1=284, y1=127, x2=309, y2=173
+  Объект 2: x1=87, y1=127, x2=113, y2=173
+
+text: 2 объектов
+  Объект 1: x1=35, y1=136, x2=85, y2=189
+  Объект 2: x1=233, y1=136, x2=281, y2=189
+
+transformators: 2 объектов
+  Объект 1: x1=287, y1=521, x2=314, y2=573
+  Объект 2: x1=91, y1=521, x2=116, y2=574
+

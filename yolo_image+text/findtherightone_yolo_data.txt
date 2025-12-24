@@ -1,10 +1,3 @@
-WH_Counter:
-Coordinates: (80, 375, 147, 435)
-automatics:
-Coordinates: (70, 411, 92, 456)
-Coordinates: (140, 412, 158, 458)
-Coordinates: (69, 338, 96, 379)
-Coordinates: (66, 496, 95, 527)
-Coordinates: (138, 333, 158, 382)
-Coordinates: (140, 403, 163, 462)
-Coordinates: (136, 493, 159, 533)
+WH_Counter: 1 объектов
+  Объект 1: x1=80, y1=374, x2=148, y2=435
+
